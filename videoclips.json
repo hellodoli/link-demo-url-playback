@@ -139,7 +139,7 @@
   },
   {
     "title": "RTSP multicast streaming",
-    "url": "rtsp://10.88.91.96/canimals.ts",
+    "url": "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov",
     "type": "rtsp",
     "poster": "canimals.jpg",
     "description": "Fixed URI rtsp://xxx.xxx.xxx.xxx/canimals.ts!!! IPTV multicast protocol H264 + AAC. RTSP streaming, 1920x1080 MPEG1/2 video (mpgv) + AC3 codecs."
